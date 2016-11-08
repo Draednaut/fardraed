@@ -1,0 +1,197 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<head lang="en">
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<title>Brida | Wedding HTML5/CSS3 Template</title>
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="assets/blueprint-css/screen.css" type="text/css" media="screen, projection">
+	<link rel="stylesheet" href="assets/blueprint-css/print.css" type="text/css" media="print">
+	<!--[if lt IE 8]><link rel="stylesheet" href="assets/blueprint-css/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="assets/blueprint-css/plugins/fancy-type/screen.css" type="text/css" media="screen, projection">
+	<style type="text/css" media="screen">
+		p, table, hr, .box { margin-bottom:25px; }
+		.box p { margin-bottom:10px; }
+	</style>
+</head>
+
+
+<body>
+	<div class="container">
+	
+		<h3 class="center alt">&ldquo;Brida&rdquo; Documentation by &ldquo;Krasota Iskusstva&rdquo; v1.0</h3>
+		
+		<hr>
+		
+		<h1 class="center">&ldquo;Brida |  Wedding HTML Template&rdquo;</h1>
+		
+		<div class="borderTop">
+			<div class="span-6 colborder info prepend-1">
+				<p class="prepend-top">
+					<strong>
+					Created: 18/09/2016<br>
+					By: Moskva Yigit<br>
+					</strong>
+				</p>
+			</div><!-- end div .span-6 -->		
+	
+			<div class="span-12 last">
+				<p class="prepend-top append-0">Thank you for purchasing my theme. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form. Thanks so much!</p>
+			</div>
+		</div><!-- end div .borderTop -->
+		
+		<hr>
+		
+		<h2 id="toc" class="alt">Table of Contents</h2>
+		<ol class="alpha">
+			<li><a href="#01">HTML Structure</a></li>
+			<li><a href="#02">CSS Files and Structure</a></li>
+			<li><a href="#03">Settings</a></li>
+			<li><a href="#04">JavaScript</a></li>
+			<li><a href="#05">Sources and Credits</a></li>
+		</ol>
+
+		<h3 id="#01"><strong>A) HTML Structure</strong> - <a href="#toc">top</a></h3>
+		<p>This theme is a responsive layout with 12 columns (Bootstrap CSS). All of the information within the main content area is nested within a div with an id of "page-wrapper". Inside of any "row" class, you can use 1 - 12 colums. (col-lg-1, col-lg-5, col-lg-12)</p>
+		
+		<img src="assets/images/html.png" />
+		
+
+		<hr>
+
+		<h3 id="#02"><strong>B) CSS Files and Structure</strong> - <a href="#toc">top</a></h3>
+
+		<p>I'm using 2 CSS files in this theme connected to main (style.css) file.
+		<ul>
+		<li>bootstrap.css > Responsive layout and main contents such as buttons, navigations, etc.</li>
+		<li>style.css > Main CSS code files. You will need to use this file mostly to perform the changes</li>
+		</ul>
+		</p> 
+
+		<p>The main file (style.css) contains all of the specific stylings for the page. The file is separated into sections using:</p>  
+
+		<pre>	/*----------------------------
+			.-- Imports
+			-----------------------------*/
+
+			some code
+
+			/*----------------------------
+			.-- Resets
+			-----------------------------*/
+			
+			some code
+			
+			/*----------------------------
+			.-- General
+			-----------------------------*/
+			
+			some code
+			
+			/*----------------------------
+			.-- Navigation
+			-----------------------------*/
+			
+			some code
+			
+			etc, etc. 
+		</pre>
+		
+		<p>If you would like to edit a specific section of the site, simply find the appropriate label in the CSS file, and then scroll down until you find the appropriate style that needs to be edited.</p> 
+
+		<p>If you would like to edit the navigation, find the following section in the style sheet:</p>
+
+		<pre>	ul.nav li.dropdown:hover > ul.dropdown-menu{
+					change style here
+					}
+		</pre>
+
+		<h3 id="#03"><strong>C) JavaScript</strong> - <a href="#toc">top</a></h3>
+		
+		<p>This theme imports 9 Javascript files.</p>
+		
+		<ol>
+		<li>settings.js<br />
+		<p>Most of the scripts are here if you need to change anything. But due to the dynamic structure, you won't need to change any of these codes but some settings such as Google Map, Contact, Twitter, please, see the <a href="#03">Settings</a> section.</li>
+		<li>twitterconfig<br />
+		<p>You need to edit this file to change the twitter settings</p></li>
+		<li>bootstrap.js</li>
+		<li>countdown.js</li> 
+		<li>fitvids.js</li>
+		<li>jquery.js</li>
+		<li>mcvalidate.js</li>
+		<li>twitterfetcher.js</li>
+		<li>validate.js</li>
+		</ol>
+		 		
+		<hr>
+		
+		<hr>
+		<h3 id="04"><strong>D) Settings</strong> - <a href="#toc">top</a></h3>
+		<h4 style="font-weight:bold">Images</h4>
+		<img src="assets/images/images.png" alt="" />
+		<br /><br />
+		<ul>
+		<li>Open the index/blog.html and replace the url with your images.</li>
+		</ul>
+		
+		<h4 style="font-weight:bold">Changing Colors</h4>
+		<img src="assets/images/color.png" alt="" />
+		<br /><br />
+		<ul>
+		
+		<li>Open custom.css file from the folder _css with any Notepad software. Go to "Replace". Enter the first and second color code, click replace all. Save the file.</li>
+		</ul>
+		
+		<h4 style="font-weight:bold">Countdown</h4>
+		<img src="assets/images/countdown.png" alt="" />
+		<br /><br />
+		<ul>
+		
+		<li>Open settings.js file from the folder _js with any Notepad software. Change the dates and save it.</li>
+		</ul>
+		
+		<h4 style="font-weight:bold">Dropdown menu</h4>
+		<img src="assets/images/dropdown.png" alt="" />
+		<p>Use the example below for dropdown menu</p>
+		<hr>
+		
+		<h4 style="font-weight:bold">Twitter Settings</h4>
+		<img src="assets/images/twitter.png" alt="" />
+		<br /><br />
+		<ul>
+		
+		<li>Open twitterconfig.js file from the folder _js with any Notepad software.</li>
+		<li>Replace the ID with yours</li>
+		<li>
+			<ul><li>Create Twitter ID</li>
+				<li>Go to www.twitter.com and sign in as normal, go to your settings page.</li>
+				<li>Go to "Widgets" on the left hand side.</li>
+				<li>Create a new widget for what you need eg "user time line" or "search" etc.</li>
+				<li>Feel free to check "exclude replies" if you don't want replies in results.</li>
+				<li>Now go back to settings page, and then go back to widgets page and you should see the widget you just created. Click edit.</li>
+				<li>Look at the URL in your web browser, you will see a long number like this: '45735908357048478' Use this as your ID above instead!</li>
+			</ul>
+		</li>
+		</ul>
+		
+		<h3 id="05"><strong>E) Sources and Credits</strong> - <a href="#toc">top</a></h3>
+		<p>I've used the following images, icons or other files as listed.</p>
+		<ul>
+			<li>Bootstrap - http://getbootstrap.com/</li>
+			<li>jQuery JavaScript Library - http://jquery.com/</li>
+			<li>HTML5 Shiv - https://github.com/aFarkas/html5shiv/</li>
+			<li>Fit Vids - http://sam.zoy.org/wtfpl/</li>
+			<li>jQuery Form - http://malsup.com/jquery/form/</li>	
+			<li>Twitter - https://github.com/jasonmayes/Twitter-Post-Fetcher</li>
+			<li>Validation - http://bassistance.de/jquery-plugins/jquery-plugin-validation/</li>
+		</ul>
+		<hr>
+		
+		<p>Once again, thank you so much for purchasing this theme. As I said at the beginning, I'd be glad to help you if you have any questions relating to this theme. No guarantees, but I'll do my best to assist. If you have a more general question relating to the themes, you might consider visiting the forums and asking your question in the "Item Discussion" section.</p> 
+		
+		<p class="append-bottom alt large"><strong>Moskva Yigit</strong></p>
+		<p><a href="#toc">Go To Table of Contents</a></p>
+		
+		<hr class="space">
+	</div><!-- end div .container -->
+</body>
+</html>

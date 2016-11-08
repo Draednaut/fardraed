@@ -34,7 +34,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 700;
   color: #000;
@@ -61,7 +61,7 @@ h5 {
   line-height: 14px;
 }
 p {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   color: #000;
@@ -70,7 +70,7 @@ p {
 }
 a,
 span {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
 }
@@ -118,7 +118,7 @@ body {
   padding-right: 5px;
 }
 .navigation-bar .logo-container a span {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -257,7 +257,7 @@ body {
     width: auto;
   }
   .navigation-bar .logo-container a span {
-    font-family: 'Montserrat';
+    font-family: 'Share Tech Mono';
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -322,7 +322,7 @@ body {
   transition: all 0.2s linear;
 }
 .header-parallax-image .featured-content h1 {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 700;
   font-size: 60px;
@@ -357,7 +357,7 @@ body {
 .header-parallax-image .featured-content a {
   text-decoration: none;
   display: inline-block;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -453,7 +453,7 @@ body {
   margin-top: 10px;
 }
 .wedding p.location {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 700;
   margin: 15px 0 0;
@@ -485,7 +485,7 @@ body {
   width: 70px;
   height: 90px;
   text-align: center;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -558,7 +558,7 @@ padding-top: inherit;}
   display: inline-block;
   text-decoration: none;
   outline: 0;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -770,7 +770,7 @@ padding-top: inherit;}
   margin: 0;
 }
 .twitter-feed #tweet-example-1 ul li p {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -785,7 +785,7 @@ padding-top: inherit;}
 }
 .twitter-feed #tweet-example-1 ul li p.timePosted a {
   text-decoration: none;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -881,7 +881,7 @@ padding-top: inherit;}
 }
 .blog-single .content p.meta a {
   color: #454545;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 700;
   -webkit-transition: all 0.2s linear;
@@ -906,7 +906,7 @@ padding-top: inherit;}
 .blog-single .content .article-nav a {
   display: block;
   height: 40px;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -948,7 +948,7 @@ padding-top: inherit;}
   border: none;
   outline: 0;
   background: #eff3f3;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -972,7 +972,7 @@ padding-top: inherit;}
 .blog-single .content .comments-section form .field label {
   display: block;
   width: 100%;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -983,7 +983,7 @@ padding-top: inherit;}
   border-top: 1px solid #999;
 }
 .blog-single .content .comments-section form button {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1039,7 +1039,7 @@ padding-top: inherit;}
 }
 .blog-single .content .comments-section .comment a.reply {
   display: inline-block;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1083,7 +1083,7 @@ padding-top: inherit;}
   border: none;
   outline: 0;
   background: #f0f6f7;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1096,7 +1096,7 @@ padding-top: inherit;}
   height: 40px;
   float: left;
   width: 20%;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -1118,7 +1118,7 @@ padding-top: inherit;}
 .blog-single .sidebar .categories-widget ul li a {
   display: block;
   text-decoration: none;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1171,7 +1171,7 @@ padding-top: inherit;}
   text-decoration: none;
   display: block;
   height: 40px;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1215,7 +1215,7 @@ padding-top: inherit;}
 }
 .blog-category-page .content .article-category p.meta a {
   color: #454545;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 700;
   -webkit-transition: all 0.2s linear;
@@ -1325,7 +1325,7 @@ padding-top: inherit;}
   border: none;
   outline: 0;
   background: #f0f6f7;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1338,7 +1338,7 @@ padding-top: inherit;}
   height: 40px;
   float: left;
   width: 20%;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -1360,7 +1360,7 @@ padding-top: inherit;}
 .blog-category-page .sidebar .categories-widget ul li a {
   display: block;
   text-decoration: none;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1413,7 +1413,7 @@ padding-top: inherit;}
   text-decoration: none;
   display: block;
   height: 40px;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1497,7 +1497,7 @@ padding-top: inherit;}
 }
 .footer .twitter-feed-footer ul .timePosted a {
   text-decoration: none;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1556,7 +1556,7 @@ padding-top: inherit;}
 }
 .footer .subscribe .mce_inline_error {
   background: #999 !important;
-  font-family: 'Montserrat' !important;
+  font-family: 'Share Tech Mono' !important;
   font-style: normal !important;
   font-weight: 400 !important;
   color: #fff;
@@ -1566,7 +1566,7 @@ padding-top: inherit;}
   outline: 0;
   background: #212121 !important;
   color: #454545;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1593,7 +1593,7 @@ padding-top: inherit;}
 }
 .footer .subscribe button span {
   display: inline-block;
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1651,7 +1651,7 @@ padding-top: inherit;}
   padding: 15px 30px 15px 0;
 }
 .footer .footer-bottom .menu-footer ul li a {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -1852,7 +1852,7 @@ padding-top: inherit;}
   padding-top: 120px;
 }
 .category-head h4 {
-  font-family: 'Montserrat';
+  font-family: 'Share Tech Mono';
   font-style: normal;
   font-weight: 700;
   margin: 0;
